@@ -1,0 +1,23 @@
+{
+  "name": "keylenn-docs",
+  "version": "1.0.0",
+  "description": "keylenn project document",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "doc": "docsify serve docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keylenn/keylenn-docs.git"
+  },
+  "author": "keylenn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keylenn/keylenn-docs/issues"
+  },
+  "homepage": "https://github.com/Keylenn/keylenn-docs#readme"
+}
